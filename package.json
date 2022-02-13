@@ -14,7 +14,7 @@
     "Sequalize",
     "PostgresSQL"
   ],
-  "author": "J. Rantanen",
+  "author": "rantanjo",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.1",
